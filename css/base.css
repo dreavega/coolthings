@@ -3,6 +3,7 @@ body
 	font-family: Monospace;
 	font-weight: bold;
 	background-image: url(../images/wd.jpg);
+	background-color: #35e256;
 	margin: 0px;
 	overflow: hidden;
 }
