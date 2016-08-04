@@ -2,7 +2,7 @@ body
 {
 	font-family: Monospace;
 	font-weight: bold;
-	background-image: url("css/wd.jpg");
+	background-image: url(../images/wd.jpg);
 	margin: 0px;
 	overflow: hidden;
 }
